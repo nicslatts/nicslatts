@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicslatts
-- 👀 I’m interested in K8S projects, GitOps, CI/CD tools.
-- 🌱 I’m currently learning K8s CI/CD, KCC, Crossplane, GKE-Enterprise. 
-- 💞️ I’m looking to collaborate on managing K8S environments and CI/CD pipelines at scale, and GitOps for K8S environments. 
-- 📫 How to reach me; nslattery@google.com.
+- 👀 I’m interested in cloud resource management, K8S, GitOps, CI/CD tools.
+- 🌱 I’m currently learning how to use K8s to manage any cloud resource. 
+- 💞️ I’m looking to collaborate on managing K8S environments and using K8s as a control plane for managing all cloud resources and providing app teams with a self-service infrastrcuture model. 
+- 📫 How to reach me; npslattery@gmail.com.
 
 <!---
 nicslatts/nicslatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
