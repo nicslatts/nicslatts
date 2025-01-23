@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicslatts
-- 👀 I’m interested in K8s resource mgmt, and OSS AI tooling.
-- 🌱 I’m currently learning about creating systems of AI agents. 
+- 👀 I’m interested in K8s resource mgmt and OSS AI tooling.
+- 🌱 I’m currently learning about building systems of AI agents. 
 - 💞️ I’m looking to collaborate on [kro.run ](https://kro.run/), and OSS agentic AI systems. 
 - 📫 How to reach me; npslattery@gmail.com.
 
