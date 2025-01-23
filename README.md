@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicslatts
-- 👀 I’m interested in cloud resource management, K8S, GitOps, CI/CD tools.
-- 🌱 I’m currently learning how to use K8s to manage any cloud resource. 
-- 💞️ I’m looking to collaborate on managing K8S environments and using K8s as a control plane for managing all cloud resources and providing app teams with a self-service infrastrcuture model. 
+- 👀 I’m interested in K8s resource mgmt, and OSS AI tooling.
+- 🌱 I’m currently learning about creating systems of AI agents. 
+- 💞️ I’m looking to collaborate on [kro.run ](https://kro.run/), and OSS agentic AI systems. 
 - 📫 How to reach me; npslattery@gmail.com.
 
 <!---
